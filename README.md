@@ -94,7 +94,7 @@ Sinta-se à vontade para enviar um **pull request** ou abrir uma **issue** ✨
 
 Desenvolvido por **Ester Luiza**  
 Estudante de Ciência da Computação – UCB  
-🔗 [LinkedIn](www.linkedin.com/in/estergalati) 
+🔗 [LinkedIn](https://www.linkedin.com/in/estergalati/) 
 
 
 ## 📜 Licença
